@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "title": "Greetings",
+      "description": "greeting cards to everyperson.",
+      "draft": false,
+      "date": "2022-12-20",
+      "time": "14:19",
+      "currentColor": "yellow",
+      "id": 1
+    },
+    {
+      "title": "Buy a gift",
+      "description": "ceremony of friend. Meet your friends at one common point at bus stop. Don't forget to take a gift.",
+      "draft": true,
+      "date": "2022-12-20",
+      "time": "19:28",
+      "currentColor": "#FED8B1",
+      "id": 2
+    },
+    {
+      "title": "Go to gym",
+      "description": "Visit gym and do exercise for one hour. Return home and get fresh and eat breakfast",
+      "draft": true,
+      "date": "2022-12-20",
+      "currentColor": "#FED8B1",
+      "time": "18:11",
+      "id": 3
+    },
+    {
+      "title": "Go to event",
+      "description": "Birthday of  the friend. Meet your friends at one common point at bus stop. Don't forget to take a gift.",
+      "draft": true,
+      "date": "2022-12-20",
+      "currentColor": "#CBC3E3",
+      "time": "13:19",
+      "id": 4
+    }
+  ]
+}
